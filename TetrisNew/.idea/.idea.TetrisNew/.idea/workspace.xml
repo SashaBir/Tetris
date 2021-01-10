@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14dd3d91-02d3-4746-83d6-af26c07b1b3b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interface/StarterGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Tetris/Assets/Scripts/LimitWallMove.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/957CDF6E-D7ED-42F3-BC1B-6CE7FD8D715F/db/7de8085e/IPointerUpHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Other/Buffer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/957CDF6E-D7ED-42F3-BC1B-6CE7FD8D715F/a2/1552f8d1/02000056.il" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Coin/Coin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Other/PrefsSave.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Tetris/Assets/Scripts/ZoneTouchDelete.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Environment/SpawnerUnistallZone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Other/SaveSome.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Figure/FigureOptions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Anime/AnimatorNextLVL.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Figure/ReloadFigure.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Figure/Special Figures/FigureOptions_SZI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Zone/ZoneUnistaller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interface/MenuState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Tetris/Assets/Scripts/FigureManagement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interface/GameplayState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Environment/SpawnerCoins.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/UserInterface/Bootstrap.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Environment/ReloaderGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Environment/LimitWall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Models/Providers/Collab.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Tetris/Assets/Scripts/FigureSettingsAll/FigureSettings.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Environment/CheckerLimitHeight.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Environment/FigureMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Environment/RowOfTenCubes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/VertexModifiers/Shadow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Figure/Special Figures/FigureOptions_O.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Tetris/Assets/Scripts/ZoneDeleteCubeBtn.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Graphic.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Editor/UI/ScrollbarEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Tetris/Assets/Scripts/DeletCubes.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Environment/NextFigure.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Other/SaveSomeItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interface/PauseButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Other/Buffer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interface/DeleteCubesButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interface/ButtonsOnScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Environment/FigureDeleteZone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Environment/CubesDeleteZone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interface/GameplayButtonsOnScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interface/AnimatorUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Other/Sound.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Other/PrefsSave.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Anime/AnimatorNextLVL.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Environment/ReloaderGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interface/StarterGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Other/SaveSome.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Environment/SpawnerUnistallZone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interface/GameplayState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Environment/LimitWall.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Environment/CheckerLimitHeight.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Environment/SpawnerCoins.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Figure/Special Figures/FigureOptions_O.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Figure/Special Figures/FigureOptions_SZI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Figure/ReloadFigure.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Environment/FigureMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Zone/ZoneUnistaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Figure/FigureOptions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Coin/Coin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interface/MenuState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Environment/RowOfTenCubes.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mIVVRGDU7kE1S77S3tbvA5Ot76" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\sasha\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14dd3d91-02d3-4746-83d6-af26c07b1b3b" name="Default Changelist" comment="" />
+      <created>1609181119843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609181119843</updated>
+      <workItem from="1609181123784" duration="1772000" />
+      <workItem from="1609182929142" duration="1367000" />
+      <workItem from="1609185656972" duration="56000" />
+      <workItem from="1609185991108" duration="525000" />
+      <workItem from="1609189815875" duration="685000" />
+      <workItem from="1609194284510" duration="1771000" />
+      <workItem from="1609196292568" duration="1040000" />
+      <workItem from="1609262682377" duration="1197000" />
+      <workItem from="1609264272109" duration="1820000" />
+      <workItem from="1609266128575" duration="1780000" />
+      <workItem from="1609267950014" duration="3822000" />
+      <workItem from="1609272746363" duration="1521000" />
+      <workItem from="1609322955337" duration="1774000" />
+      <workItem from="1609324982485" duration="348000" />
+      <workItem from="1609325374062" duration="301000" />
+      <workItem from="1609325965423" duration="1775000" />
+      <workItem from="1609327777908" duration="1715000" />
+      <workItem from="1609329730952" duration="81000" />
+      <workItem from="1609338633289" duration="1788000" />
+      <workItem from="1609340493177" duration="2814000" />
+      <workItem from="1609349899390" duration="1621000" />
+      <workItem from="1609353945776" duration="1779000" />
+      <workItem from="1609355772433" duration="1080000" />
+      <workItem from="1609357439133" duration="541000" />
+      <workItem from="1609360738371" duration="362000" />
+      <workItem from="1609531381079" duration="598000" />
+      <workItem from="1609533407408" duration="2179000" />
+      <workItem from="1609535635742" duration="1774000" />
+      <workItem from="1609537459777" duration="924000" />
+      <workItem from="1609582510087" duration="1773000" />
+      <workItem from="1609584366633" duration="1775000" />
+      <workItem from="1609586179929" duration="1803000" />
+      <workItem from="1609588017446" duration="111000" />
+      <workItem from="1609606528353" duration="1000" />
+      <workItem from="1609606897563" duration="479000" />
+      <workItem from="1609609701930" duration="216000" />
+      <workItem from="1609609940843" duration="326000" />
+      <workItem from="1609610293010" duration="211000" />
+      <workItem from="1609610542952" duration="8506000" />
+      <workItem from="1609691881515" duration="18726000" />
+      <workItem from="1609766640285" duration="3766000" />
+      <workItem from="1609792869804" duration="6921000" />
+      <workItem from="1609838813143" duration="634000" />
+      <workItem from="1609839463372" duration="7140000" />
+      <workItem from="1609871676978" duration="8419000" />
+      <workItem from="1609927343383" duration="1858000" />
+      <workItem from="1609965853315" duration="10613000" />
+      <workItem from="1610046251792" duration="3839000" />
+      <workItem from="1610057538566" duration="5756000" />
+      <workItem from="1610129738614" duration="9565000" />
+      <workItem from="1610194821617" duration="8301000" />
+      <workItem from="1610204845231" duration="81000" />
+      <workItem from="1610204939709" duration="14870000" />
+      <workItem from="1610229207064" duration="1947000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1144" y="388" key="#Notifications" timestamp="1609612062632">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1144" y="388" key="#Notifications/0.0.2560.1050/-1280.17.1280.994@0.0.2560.1050" timestamp="1609612062632" />
+    <state x="1053" y="139" key="RiderGenerateDialog" timestamp="1609195927438">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1053" y="139" key="RiderGenerateDialog/0.0.2560.1050/-1280.17.1280.994@0.0.2560.1050" timestamp="1609195927438" />
+    <state x="492" y="81" width="1776" height="915" key="SettingsEditor" timestamp="1609880169538">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="492" y="81" width="1776" height="915" key="SettingsEditor/0.0.2560.1050/-1280.17.1280.994@0.0.2560.1050" timestamp="1609880169538" />
+    <state x="936" y="243" key="run.anything.popup" timestamp="1609797868774">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="936" y="243" key="run.anything.popup/0.0.2560.1050/-1280.17.1280.994@0.0.2560.1050" timestamp="1609797868774" />
+    <state x="943" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1609848064883">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="943" y="227" width="672" height="678" key="search.everywhere.popup/0.0.2560.1050/-1280.17.1280.994@0.0.2560.1050" timestamp="1609848064883" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="TetrisNew" type="b2602c69:ProjectViewProjectNode" />
+        <item name="TetrisNew" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>

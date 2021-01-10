@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\sasha\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\sasha\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_TetrisNew.229403320.00" t="ExcludeRecursive" />
+    <e p="E:\Programming\Unity\MyFirstApp\TetrisNew" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Anime" t="Include">
+            <e p="AnimatorNextLVL.cs" t="Include" />
+          </e>
+          <e p="Coin" t="Include">
+            <e p="Coin.cs" t="Include" />
+          </e>
+          <e p="Environment" t="Include">
+            <e p="CheckerLimitHeight.cs" t="Include" />
+            <e p="FigureMovement.cs" t="Include" />
+            <e p="LimitWall.cs" t="Include" />
+            <e p="ReloaderGame.cs" t="Include" />
+            <e p="RowOfTenCubes.cs" t="Include" />
+            <e p="SpawnerCoins.cs" t="Include" />
+            <e p="SpawnerUnistallZone.cs" t="Include" />
+          </e>
+          <e p="Figure" t="Include">
+            <e p="FigureOptions.cs" t="Include" />
+            <e p="ReloadFigure.cs" t="Include" />
+            <e p="Special Figures" t="Include">
+              <e p="FigureOptions_O.cs" t="Include" />
+              <e p="FigureOptions_SZI.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Interface" t="Include">
+            <e p="GameplayState.cs" t="Include" />
+            <e p="MenuState.cs" t="Include" />
+            <e p="StarterGame.cs" t="Include" />
+          </e>
+          <e p="Other" t="Include">
+            <e p="Buffer.cs" t="Include" />
+            <e p="PrefsSave.cs" t="Include" />
+            <e p="SaveSome.cs" t="Include" />
+          </e>
+          <e p="Zone" t="Include">
+            <e p="ZoneUnistaller.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Sky Box" t="Include">
+          <e p="Shaders" t="Include">
+            <e p="Stylized Sky.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="TetrisNew.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
