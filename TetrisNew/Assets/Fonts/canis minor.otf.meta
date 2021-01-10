@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d7cba08ddf8c4204ca14f42af7f182b4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Canis Minor
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2494ff61e58692242bc82deee3b52bc8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
